@@ -121,14 +121,14 @@
 
         // &lt (layer-tap) のデフォルト挙動をグローバルに上書き
         lt {
-            tapping-term-ms = <80>;
-            quick-tap-ms = <80>;
+            tapping-term-ms = <40>;
+            quick-tap-ms = <40>;
         };
 
         // &mt (mod-tap) のデフォルト挙動をグローバルに上書き
         mt {
-            tapping-term-ms = <80>;
-            quick-tap-ms = <80>;
+            tapping-term-ms = <40>;
+            quick-tap-ms = <40>;
         };
     };
 
